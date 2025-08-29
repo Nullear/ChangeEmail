@@ -8,10 +8,10 @@ metadata:
   version: 1.0  # 插件版本，修改为你的插件版本
   description:  # 插件简介，修改为你的插件简介，支持多语言
     en_US: ChangeEmail
-    zh_CN: 示例插件
+    zh_CN: ChangeEmail
   label:  # 插件显示名称，支持多语言。在 WebUI 上会显示对应语言的 label
-    en_US: Hello
-    zh_CN: Hello
+    en_US: ChangeEmail
+    zh_CN: ChangeEmail
 spec:
   # 插件配置（可选），可配置多项
   config:
