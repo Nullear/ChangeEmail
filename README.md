@@ -1,4 +1,4 @@
-# HelloPlugin
+# ChangeEmail
 
 <!--
 ## 插件开发者详阅
@@ -28,11 +28,6 @@
 下方是给用户看的内容，按需修改
 -->
 
-## 安装
+## actually
 
-配置完成 [LangBot](https://github.com/RockChinQ/LangBot) 主程序后即可到插件管理页面安装  
-或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
-
-## 使用
-
-<!-- 插件开发者自行填写插件使用说明 -->
+这个东西写来不是给任何人看的所以不写

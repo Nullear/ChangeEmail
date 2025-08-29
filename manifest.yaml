@@ -2,12 +2,12 @@ apiVersion: v1  # 不要改动
 kind: Plugin  # 不要改动
 metadata:
   # author 和 name 唯一确定一个插件
-  author: langbot  # 插件作者，修改为你的名称
-  name: Hello  # 插件名称，修改为你的插件名称
-  repository: 'https://github.com/langbot-app/HelloPlugin'  # 插件仓库地址，修改为你的插件 GitHub 仓库地址
-  version: 0.1.0  # 插件版本，修改为你的插件版本
+  author: Nullear  # 插件作者，修改为你的名称
+  name: ChangeEmail  # 插件名称，修改为你的插件名称
+  repository: 'https://github.com/Nullear/UrcaeaBot'  # 插件仓库地址，修改为你的插件 GitHub 仓库地址
+  version: 1.0  # 插件版本，修改为你的插件版本
   description:  # 插件简介，修改为你的插件简介，支持多语言
-    en_US: Plugin for sending hello
+    en_US: ChangeEmail
     zh_CN: 示例插件
   label:  # 插件显示名称，支持多语言。在 WebUI 上会显示对应语言的 label
     en_US: Hello
@@ -28,4 +28,4 @@ spec:
 execution:
   python:
     path: main.py  # 插件主程序路径，必须与上方插件入口代码的文件名相同
-    attr: HelloPlugin  # 插件类名，必须与上方代码中声明的类名相同
+    attr: ChangeEmail  # 插件类名，必须与上方代码中声明的类名相同
